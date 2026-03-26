@@ -32,11 +32,9 @@ It is a beginner-friendly project demonstrating Django CRUD operations, MVT arch
 
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![Todo App](/ToDo/assets/Todo1.png?raw=true "Todo frontend")
 
-
-
-![Todo App](/repository/assets/employee.png?raw=true "Employee Data title")
+![Todo App](/ToDo/assets/Todo_admin.png?raw=true "Todo frontend")
 
 ## Run Locally
 
@@ -112,3 +110,5 @@ http://127.0.0.1:8000/
 🔹 REST API with Django REST Framework
 
 🔹 Deployment on Heroku / Render
+
+-------------
